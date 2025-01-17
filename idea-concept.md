@@ -1,5 +1,5 @@
 # idea on how to pull data from AJAX data
-```
+
 // Frontend Automation with Selenium
 Use Case: Automate interactions with the webpage if the data is loaded dynamically and requires user interaction (e.g., logging in, navigating pages).
 
@@ -16,4 +16,4 @@ logic of the flow
 - then we need to handle the no info properties too. I can do a try...except block ensures the script doesn't break if an element is missing.
 - use simple print(properties) command to execute the data extraction
 
-```
+
