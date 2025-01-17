@@ -13,7 +13,7 @@ logic of the flow
 - provide the webpage-url
 - set the varibles to extraact the data in which they are properies = []
 - use **for i in range(1, 11)** to  loop the TH properties and the element would be "element_id = f"CPH_SKU_hdf_SKB_PROPERTY{i}_TH"
-- then we need to handle the info propertie too. I can do a try...except block ensures the script doesn't break if an element is missing.
+- then we need to handle the no info properties too. I can do a try...except block ensures the script doesn't break if an element is missing.
 - use simple print(properties) command to execute the data extraction
 
 ```
