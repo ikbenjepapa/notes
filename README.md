@@ -4,7 +4,7 @@ This repository is intended to store personal notes, concepts, and ideas for ref
 
 ---
 
-## Purpose
+## Purpose 
 - Organize and document various ideas and concepts.
 - Provide a single location for structured notes.
 - Serve as a knowledge base for quick access and updates.
