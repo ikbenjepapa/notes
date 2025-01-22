@@ -154,6 +154,6 @@ When RSI ≥ 80:
 Sell all or a significant portion of the holding.
 This locks in profits before a likely reversal.
 
-
+   
 ### Considerable amount of timeframe
 - After research for quite some time, the reliable timeframe for executing trades would be 4h and 1d timeframes
