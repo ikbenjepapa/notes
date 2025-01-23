@@ -3,5 +3,5 @@
 - Download user manuals for arrangement
 - Recheck the report
   - >Remind someone of the mistakes
-- 
+- Clear off footers on 24th
 
